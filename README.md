@@ -1,4 +1,4 @@
-# Space News API
+# SpaceX News API
 
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Django Version](https://img.shields.io/badge/Django-3.2-green)
